@@ -1,8 +1,8 @@
 /*
  * geometry.c
- * Andy Sayler
+ * Anthony Keydel
  * CSCI 3308
- * Summer 2014
+ * Spring 2018
  *
  * This file contains a simple geomtery functions.
  *
