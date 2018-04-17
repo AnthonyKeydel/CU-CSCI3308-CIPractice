@@ -1,4 +1,6 @@
-# Andy Sayler
+# Anthony Keydel, Joshua Nguyen, Madelaine Struwe
+# CSCI 3308
+# Spring 2018
 # CI Practice
 # Summer 2014
 

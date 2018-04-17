@@ -1,8 +1,8 @@
 /*
  * geometry_test.c
- * Andy Sayler
+ * Anthony Keydel, Joshua Nguyen, Madelaine Struwe
  * CSCI 3308
- * Summer 2014
+ * Spring 2018
  *
  * This file containsunit tests for geometry.c
  *
